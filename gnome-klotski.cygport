@@ -1,0 +1,10 @@
+inherit gnome2
+
+NAME="gnome-klotski"
+VERSION=3.8.2
+RELEASE=1
+CATEGORY="Games"
+SUMMARY="GNOME Klotski game"
+DESCRIPTION="Klotski is a puzzle game of which the objective is to get the
+patterned block to the marker, which is done by moving the blocks in its way."
+OBSOLETES="gnotski"
